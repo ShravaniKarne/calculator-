@@ -1,3 +1,3 @@
-# My Git Practice Project (Main Update)
+# Project Title - Main Change
 
 This update adds details about a new feature.
